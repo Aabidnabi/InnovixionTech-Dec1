@@ -10,7 +10,7 @@ The project is structured as follows:
 
 - `index.html`: The main HTML file containing the content of the website.
 - `style.css`: The CSS file responsible for styling the HTML content.
-- `assests/`: A directory to store any images used on the website.
+- `assets/`: A directory to store any images used on the website.
 
 ## Usage
 
