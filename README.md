@@ -24,7 +24,7 @@ This project showcases a countdown timer implemented using HTML, CSS, and JavaSc
 
 ## Usage
 # Clone your forked repo into your local system
-git clone https://github.com/Aabidnabi/Task_02_Count Down Timer.git
+git clone https://github.com/Aabidnabi/InnovixionTech-Dec1.git
 
 # Creating a new branch
 git checkout -b <branch-name>
