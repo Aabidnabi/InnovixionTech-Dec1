@@ -1,4 +1,4 @@
-# Countdown Timer Project
+![Screenshot 2023-12-10 113322](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/7a813990-a337-40e8-a518-600c4311b1b8)# Countdown Timer Project
 
 A stylish and animated countdown timer that counts down to a specific date or event. This project involves JavaScript for real-time updating and features a visually appealing design.
 
@@ -14,7 +14,7 @@ This project showcases a countdown timer implemented using HTML, CSS, and JavaSc
 
 ## Screenshots
 
-
+![Screenshot 2023-12-10 113322](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/d296977e-fb0e-4dda-9cda-3f475efc32e9)
 
 ## Features
 
