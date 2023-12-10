@@ -13,7 +13,7 @@ This project showcases a countdown timer implemented using HTML, CSS, and JavaSc
 - **JavaScript**: Dynamically updates the countdown timer in real-time.
 
 ## Screenshots
-
+![Uploading Screenshot 2023-12-10 113322.png…]()
 
 
 ## Features
