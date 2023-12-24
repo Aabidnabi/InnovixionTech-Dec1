@@ -1,29 +1,17 @@
 <h1 align="center">Quiz-Application</h1> 
  
-
-
+## About the Project
+> A web-based quiz application built with modern front-end technologies. 
+> This application allows users to participate in quizzes on various topics, view their scores, and enjoy an interactive learning experience.
 > In this Quiz Application, users can respond to the quiz questions, and the quiz can be retaken after getting their responses. 
-
 > This Quiz Application is compatible with mobile devices.
 
-
-
-<div align="center">
-<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /> 
-<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz.jpg" />
-<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz1.jpg" />
-</div>
-
-
-<div align="center">
-<sub>This Quiz Application is created by
-<a href="https://github.com/ValentineFernandes">Valentine Fernandes </a>
-</sub>
-</div>
-
-# 📝 Features 
-✅ This is a quiz application website. <br>
-✅ Each question is alloted 15 seconds, where user has to complete the quiz before time. 
+## 📝Features
+. Interactive quizzes on multiple topics.
+. Each question is alloted 10 seconds, where user has to complete the quiz before time. 
+. User authentication and personalized profiles.
+. Real-time score tracking.
+. Responsive design for seamless use on various devices.
 
 # 💻 Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,24 +21,39 @@
 # 👩‍💻 IDE used
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /> 
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz.jpg" />
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz1.jpg" />
+</div>
+
+<div align="center">
+<sub>This Quiz Application is created by
+<a href="https://github.com/Aabidnabi">Aabid Nabi </a>
+</sub>
+</div>
+
 # 🌐 Visit the website here
 <a href="https://valentinefernandes.github.io/Quiz-Application/">
 <img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
 &nbsp;<a href="https://quizapplsite.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
 &nbsp;<a href="https://quiz-application-pearl.vercel.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/vercel.png"></a>
 
-# Development
-
+# Installation
 To get a local copy of the code, clone it using git:
 
 ```
 git clone https://github.com/Aabidnabi/Task_03_Quiz_App.git
+```
+Navigate to the project directory:
+```
 cd Task_03_Quiz_App
 ```
 Now, you can start a local web server by running:
+Visit http://localhost:3000 in your web browser to access the app.
 
 ## Credits
-QuizApp is built and maintained by [Aabid Nabi](https://safdarjamal.github.io).
+QuizApp is built and maintained by [Aabid Nabi](https://portfolioaabidnabi.nelify.app).
 
 ## 📕 License
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license](#).
