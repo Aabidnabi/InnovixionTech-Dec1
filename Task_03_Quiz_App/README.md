@@ -22,13 +22,10 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 # Demo Screenshots
-<div align="center">
- <img src="https://![Screenshot 2023-12-24 114012](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/cdf8ca0d-2e8e-482b-af8e-bbd5e5e96839)" alt="Image" width="600" height="300"><br>
-<img width="600" height="400" src="https://![Screenshot 2023-12-24 114012](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/cdf8ca0d-2e8e-482b-af8e-bbd5e5e96839)"> 
-<img width="600" height="400" src="![Screenshot 2023-12-24 114114](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/23ab4e00-6109-4b49-8eb0-b1d0c7e9435e)">
-<img width="600" height="400"src="![Screenshot 2023-12-24 114248](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/c629bf8b-5cb7-4f46-b7ff-7a4e457557d7)" >
- <img width="600" height="400" src="![Screenshot 2023-12-24 114439](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/9813aa5f-0299-4d9b-bbd9-3355dbc3df64)" >
-</div>
+![Screenshot 2023-12-24 114012](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/9543ab59-f358-40ca-aa55-3e5bf83f34b1)<br>
+![Screenshot 2023-12-24 114114](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/f51ec7e1-89c4-4c6c-b9c6-b48d319db420)<br>
+![Screenshot 2023-12-24 114248](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/c729530a-6093-4f44-a64f-2d6948d759b3)<br>
+![Screenshot 2023-12-24 114439](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/f207ad47-f12f-4b6b-a59a-07788148ec58)
 
 <div align="center">
 <sub>This Quiz Application is created by
