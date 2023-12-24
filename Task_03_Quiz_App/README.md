@@ -22,11 +22,12 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 # Demo Screenshots
+<div  style=width="600" height="400" align="center">
 ![Screenshot 2023-12-24 114012](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/9543ab59-f358-40ca-aa55-3e5bf83f34b1)<br>
 ![Screenshot 2023-12-24 114114](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/f51ec7e1-89c4-4c6c-b9c6-b48d319db420)<br>
 ![Screenshot 2023-12-24 114248](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/c729530a-6093-4f44-a64f-2d6948d759b3)<br>
 ![Screenshot 2023-12-24 114439](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/f207ad47-f12f-4b6b-a59a-07788148ec58)
-
+</div>
 <div align="center">
 <sub>This Quiz Application is created by
 <a href="https://github.com/Aabidnabi">Aabid Nabi </a>
