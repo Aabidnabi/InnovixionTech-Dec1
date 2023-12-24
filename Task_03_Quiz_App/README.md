@@ -23,6 +23,7 @@
 
 # Demo Screenshots
 <div align="center">
+ <img src="https://![Screenshot 2023-12-24 114012](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/cdf8ca0d-2e8e-482b-af8e-bbd5e5e96839)" alt="Image" width="600" height="300"><br>
 <img width="600" height="400" src="https://![Screenshot 2023-12-24 114012](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/cdf8ca0d-2e8e-482b-af8e-bbd5e5e96839)"> 
 <img width="600" height="400" src="![Screenshot 2023-12-24 114114](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/23ab4e00-6109-4b49-8eb0-b1d0c7e9435e)">
 <img width="600" height="400"src="![Screenshot 2023-12-24 114248](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/c629bf8b-5cb7-4f46-b7ff-7a4e457557d7)" >
