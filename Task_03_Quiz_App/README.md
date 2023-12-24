@@ -1,4 +1,4 @@
-![Screenshot 2023-12-24 114439](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/fc07385c-a156-42af-8c6a-e08a4c84fe08)![Screenshot 2023-12-24 114439](https://github.com/Aabidnabi/InnovixionTech-Dec1/assets/69672207/e7994139-8a8a-4d0b-910d-8ef049800e20)<h1 align="center">Quiz-Application</h1> 
+<h1 align="center">Quiz-Application</h1> 
  
 ## About the Project
 > A web-based quiz application built with modern front-end technologies. 
